@@ -1,5 +1,5 @@
 # Buble-sort
-Sorting via buble method
+#Sorting via buble method
 
 param ( $theArray = @() )
 
